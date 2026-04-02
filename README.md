@@ -1,4 +1,4 @@
-
+![Project Thumbnail](assets/thumbnail.png)
 # ✈️ Airways Performance Analysis
 
 ## 📊 Project Overview
